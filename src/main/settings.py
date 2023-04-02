@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-5d%n=ngt(3_73*4nhy#cldp*%+$5+8b$ns6w5opi+u9c7-w=_d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['toolforge.org',]
+ALLOWED_HOSTS = ['toolforge.org','geoeditior.toolforge.org']
 
 
 # Application definition
